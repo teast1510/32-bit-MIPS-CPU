@@ -1,13 +1,15 @@
-# 32-bit-MIPS-CPU
-This is my lab-study project in my university.Before going into detail, let me introduce about our project:
-1. I haven't built UVM/SystemVerilog to verify a design, so it could be some mistake.
-2. You can upgrade this design by:
-  - using RISC-V instead of MIPS
-  - pipeline
-  - add more instruction
-  - use Static Timing Analysis to tận dụng tối đa tài nguyên
-3. How to use:
-https://www.edaplayground.com/x/nJPR
-click on this link and run
-4. Thank for reading
-    
+This is my university lab-study project. Before we dive into the details, let me introduce the project:
+
+As this is my first time building a verification environment using UVM/SystemVerilog, there may be some minor errors or oversights.
+
+You can further enhance this design by:
+
+Transitioning to RISC-V: Replacing the MIPS architecture with RISC-V.
+
+Pipelining: Implementing a multi-stage pipeline to improve throughput.
+
+Expanding the ISA: Adding more instructions to the existing set.
+
+Static Timing Analysis (STA): Utilizing STA to optimize timing and maximize hardware resource utilization.
+
+How to use:
