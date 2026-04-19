@@ -13,3 +13,6 @@ Expanding the ISA: Adding more instructions to the existing set.
 Static Timing Analysis (STA): Utilizing STA to optimize timing and maximize hardware resource utilization.
 
 How to use:
+- Click on EDA playground link: https://www.edaplayground.com/x/nJPR
+- Sign in and run
+Note: I have also developed a simple compiler in C++ that supports the equation y = ax + b.You can use this to generate machine code ( put it on binary.txt) and test the CPU's functionality.
