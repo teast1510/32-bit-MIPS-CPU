@@ -16,3 +16,5 @@ How to use:
 - Click on EDA playground link: https://www.edaplayground.com/x/nJPR
 - Sign in and run
 Note: I have also developed a simple compiler in C++ that supports the equation y = ax + b.You can use this to generate machine code ( put it on binary.txt) and test the CPU's functionality.
+The Architecture:
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/28498da3-bce3-4b1b-b473-4a27b5463a52" />
